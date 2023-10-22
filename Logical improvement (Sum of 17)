@@ -1,0 +1,7 @@
+public class LogicalImprovement {
+	
+public static void main(String[] args) {
+
+int i = ( (6-1)*2)+7;
+              
+System.out.println(i);
