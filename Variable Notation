@@ -1,0 +1,15 @@
+public class Variable7 {
+		
+public static void main(String[] args) {int i = 10; 
+
+int int = 20; 
+
+int goto = 30; 
+
+int default = 40; 
+
+int class = 50; 
+
+int j = 70;
+
+only first and last variable notation is correct
