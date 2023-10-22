@@ -1,6 +1,8 @@
-public class Variable7 {
+public class Variable {
 		
-public static void main(String[] args) {int i = 10; 
+public static void main(String[] args)
+
+{int i = 10; 
 
 int int = 20; 
 
@@ -19,4 +21,4 @@ int j = 70;
 				System.out.println(class);
 				System.out.println(j);
 
-only first and last variable notation is correct, remaining all showing error.
+only first and last variable notation is correct, remaining all showing compile error.
