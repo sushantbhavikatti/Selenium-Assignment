@@ -1,0 +1,19 @@
+public void whileLoop() {
+		while (true/false) {
+			// do something
+		}
+	}
+
+	public void forLoop() {
+
+		for (i = 0; i <= 0; i++) {
+			// do something
+		}
+	}
+
+	public void doWhileLoop() {
+
+		do {
+			// do something
+		} while (true/false);
+	}
